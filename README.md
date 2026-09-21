@@ -1,6 +1,7 @@
 <div align="center">
 
-# 👋 Olá, eu sou João Pedro
+# 👋 Olá, eu sou homer
+
 
 ### Engenharia de Software @ PUCRS
 
